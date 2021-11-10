@@ -27,4 +27,4 @@ Script auto claim bot telegram Shiba Airdrop via termux
 > cd Shiba
 > python cbot.py <Nomor_Telegram>
 ```
-Claim SHIBA [join kuy](https://t.me/shiib_pay_bot?start=1325523694)
+Claim SHIBA [join kuy](https://t.me/Shiba_Airdroppbot?start=r05872346140)
